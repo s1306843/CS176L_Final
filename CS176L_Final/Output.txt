@@ -1,0 +1,31 @@
+======================================================================
+seats: 5, top Speed: 120, drive train: 4WD, doors: 4
+seats: 4, top Speed: 90, drive train: FWD, doors: 2
+seats: 4, top Speed: 180, drive train: RWD, doors: 2
+seats: 5, top Speed: 100, tow capacity: 5000, pay load capacity: 1000
+seats: 5, top Speed: 95, tow capacity: 4000, pay load capacity: 1500
+seats: 5, top Speed: 120, tow capacity: 6000, pay load capacity: 2000
+seats: 1, top Speed: 220, has wind shield: false
+seats: 2, top Speed: 130, has wind shield: true
+======================================================================
+seats: 4, top Speed: 90, drive train: FWD, doors: 2
+seats: 5, top Speed: 95, tow capacity: 4000, pay load capacity: 1500
+seats: 5, top Speed: 100, tow capacity: 5000, pay load capacity: 1000
+seats: 5, top Speed: 120, drive train: 4WD, doors: 4
+seats: 5, top Speed: 120, tow capacity: 6000, pay load capacity: 2000
+seats: 2, top Speed: 130, has wind shield: true
+seats: 4, top Speed: 180, drive train: RWD, doors: 2
+seats: 1, top Speed: 220, has wind shield: false
+======================================================================
+seats: 5, top Speed: 100, tow capacity: 5000, pay load capacity: 1000
+seats: 5, top Speed: 95, tow capacity: 4000, pay load capacity: 1500
+seats: 5, top Speed: 120, tow capacity: 6000, pay load capacity: 2000
+======================================================================
+seats: 5, top Speed: 100, tow capacity: 5000, pay load capacity: 1000
+seats: 5, top Speed: 95, tow capacity: 4000, pay load capacity: 1500
+seats: 5, top Speed: 120, tow capacity: 6000, pay load capacity: 2000
+======================================================================
+seats: 5, top Speed: 95, tow capacity: 4000, pay load capacity: 1500
+seats: 5, top Speed: 100, tow capacity: 5000, pay load capacity: 1000
+seats: 5, top Speed: 120, tow capacity: 6000, pay load capacity: 2000
+======================================================================
